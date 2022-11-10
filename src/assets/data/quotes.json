@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "quote": [
+      "Debugging es dos veces más difícil que escribir el código en primer lugar. Entonces si escribes el código tan astutamente como sea posible, no eres -por definición- tan listo como para debugearlo.",
+      "Brian Kernighan"
+    ]
+  },
+
+  {
+    "id": 2,
+    "quote": [
+      "Sólo hay dos tipos de lenguajes: aquellos de los que la gente se queja y aquellos que nadie usa.",
+      "Bjarne Stroustrup"
+    ]
+  },
+  {
+    "id": 3,
+    "quote": [
+      "Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender.",
+      "Martin Fowler"
+    ]
+  },
+  {
+    "id": 4,
+    "quote": [
+      "Hay dos formas de diseñar software: la primera es hacerlo tan simple que obviamente no hay deficiencias y la segunda es hacerlo tan complicado que no hay deficiencias obvias. La primera forma es mucho más difícil.",
+      "C.A.R. Hoare"
+    ]
+  },
+  {
+    "id": 5,
+    "quote": [
+      "Mucho del software hoy en día se parece a una pirámide egipcia: con millones de ladrillos apilados uno encima del otro, sin integridad estructural y hecho por pura fuerza bruta y miles de esclavos.",
+      "Alan Kay"
+    ]
+  },
+  {
+    "id": 6,
+    "quote": [
+      "Medir el progreso de la programación por líneas de código es como medir el progreso en la construcción de aviones por el peso.",
+      "Bill Gates"
+    ]
+  },
+  {
+    "id": 7,
+    "quote": [
+      "Si deseas empezar y desarrollar algo grandioso, no necesitas millones de dólares de capitalización. Necesitas suficiente pizza y Diet Coke en la nevera, una PC barata y trabajo y dedicación para realizar tu idea.",
+      "John Carmack"
+    ]
+  },
+  {
+    "id": 8,
+    "quote": [
+      "Los programas deben ser escritos para que la gente los lea y sólo incidentalmente, para que las máquinas los ejecuten.",
+      "Abelson / Sussman"
+    ]
+  },
+  {
+    "id": 9,
+    "quote": [
+      "Pregunta: ¿Cómo se atrasa un año un proyecto grande de software? Respuesta: Un día a la vez.",
+      "Fred Brooks"
+    ]
+  }
+]
